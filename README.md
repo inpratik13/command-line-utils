@@ -27,3 +27,6 @@ Contains useful configurations for `zsh`.
 - `export PS1="%B%F{cyan}[%n@%m %1d]\$%f%b "`  
   Sets terminal prompt to `#[user_name@host_name dir_name]$` in cyan colour.
 
+### Basic.terminal  
+Contains exported terminal theme.  
+Go to your system terminal and import the file.
